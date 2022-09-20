@@ -1,0 +1,11 @@
+#button {
+    color: blueviolet;
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+    background-color: navajowhite;
+
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
